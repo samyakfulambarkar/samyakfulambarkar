@@ -2,7 +2,7 @@
 
 <!-- Updated soft gradient header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e293b,50:0f172a,100:020617&text=Chaitanya%20Jain&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e293b,50:0f172a,100:020617&text=Samyak%20Fulambarkar&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Typing animation with softer tone -->
 
