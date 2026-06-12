@@ -2,7 +2,7 @@
 
 <!-- Updated soft gradient header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1e293b,50:0f172a,100:020617&text=Samyak%20Fulambarkar&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNzbTg5amwzYmUxOW93bjJsa2RtMml1MGh6djl2ZjBzNXF5cjdmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o5HKScC1PflLO/giphy.gif")type=waving&height=260&color=0:1e293b,50:0f172a,100:020617&text=Samyak%20Fulambarkar&fontSize=48&fontColor=38BDF8&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Typing animation with softer tone -->
 
