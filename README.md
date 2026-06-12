@@ -7,7 +7,7 @@
 
 <!-- Typing animation with softer tone -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Samyak+Fulambarkar;Engineering+Student;Minimal+Design+Lover+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Samyak+Fulambarkar;Engineering+Student+⚡" />
 
 <!-- Divider -->
 
