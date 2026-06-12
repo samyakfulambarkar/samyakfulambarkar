@@ -6,7 +6,7 @@
 
 <!-- Typing animation with softer tone -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Chaitanya+Jain;Engineering+Student;Minimal+Design+Lover+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Samyak+Fulambarkar;Engineering+Student;Minimal+Design+Lover+⚡" />
 
 <!-- Divider -->
 
@@ -47,9 +47,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaitanyajain18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=0EA5E9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=samyakfulambarkar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=0EA5E9" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyajain18&theme=tokyonight&hide_border=true&background=00000000&stroke=38BDF8&ring=0EA5E9" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samyakfulambarkar&theme=tokyonight&hide_border=true&background=00000000&stroke=38BDF8&ring=0EA5E9" height="160"/>
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyajain18&theme=tokyo-night&bg_color=00000000&hide_border=true&color=38BDF8&line=0EA5E9" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samyakfulambarkar&theme=tokyo-night&bg_color=00000000&hide_border=true&color=38BDF8&line=0EA5E9" width="95%"/>
 
 </div>
 
